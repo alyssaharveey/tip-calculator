@@ -4,9 +4,9 @@
 
 Submitted by: **Alyssa Harvey**
 
-Time spent: **2** hours spent in total
+Time spent: **1.5** hours spent in total
 
-## User Stories
+## User Stories 
 
 The following **required** functionality is complete:
 
@@ -28,13 +28,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/wU3ymMg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [ezgif.com](https://ezgif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+After completing the walkthrough for developing the app, I had difficulties getting the tipAmountLabel and totalLabel texts to update in real time. I realized a step was missing from the instructions and that I needed to add additional actions in order to get the labels to update appropriately.
 
 ## License
 
